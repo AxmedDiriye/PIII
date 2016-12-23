@@ -6,4 +6,5 @@ GitHub comands:
                 - git add           -A  ->  Adds all the files in the repository
                 - git commit        -m  ->
                 - git push              ->
+		- git pull		->
                 
