@@ -1,5 +1,9 @@
-Hallo Axmed
+#GitHub Tutorial
 
-Seems to be working nicely
-
-# PIII
+GitHub comands: 
+                - git status            ->  status between local and online repository
+                - git add filename.txt  ->  Adds only that file
+                - git add           -A  ->  Adds all the files in the repository
+                - git commit        -m  ->
+                - git push              ->
+                
